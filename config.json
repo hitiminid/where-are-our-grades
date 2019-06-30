@@ -1,0 +1,17 @@
+{
+  "address": "http://www.google.com",
+  "element": {
+    "tag": "",
+    "details": {
+      "id": "id01"
+    }
+  },
+  "waitTime": 10,
+  "mailingData": {
+    "emailAddress": "",
+    "emailPassword": "",
+    "emailText": "",
+    "mailingList": ["", ""],
+    "server": "smtp.gmail.com"
+  }
+}
